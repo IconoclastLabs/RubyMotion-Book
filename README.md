@@ -8,6 +8,13 @@ Just a place to store code, ideas, and rough drafts of teaching RubyMotion with 
 * Teaching Style: Ever increasing projects with complexity.
 * Project Style: Objective-C Base, REPL Convert to RubyMotion, Red Test, Green Test, Gemify/Refactor
 
+### Potential App Ideas
+* Chatoms
+* Flashcard
+* Something Maps
+* Bingo Card
+* Hybrid Webview app
+* Something with Pictures / Filters
 
 ### Chapters
 * **Chapter 0:** Quick n Dirty Install Party with Intro
