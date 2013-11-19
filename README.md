@@ -11,6 +11,8 @@ Just a place to store code, ideas, and rough drafts of teaching RubyMotion with 
 
 ### Chapters
 * **Chapter 0:** Quick n Dirty Install Party with Intro
-* **Chapter 1:** Some basic app that puts Hello world to shame.
-* **Chapter 2:** Chatoms?
-* **Chapter 3:** ...
+* **Chapter 1:** The RubyMotion REPL.
+* **Chapter 2:** Putting Something on the Screen That Matters.
+* **Chapter 3:** Data Models, Passing Around Data
+* **Chapter 4:** Networking, Data Structures
+* **Chapter 5:** Persisting Data
