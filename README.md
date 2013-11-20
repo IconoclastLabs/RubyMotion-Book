@@ -9,6 +9,7 @@ Just a place to store code, ideas, and rough drafts of teaching RubyMotion with 
 * Project Style: Objective-C Base, REPL Convert to RubyMotion, Red Test, Green Test, Gemify/Refactor
 
 ### Potential App Ideas
+* Shake the Phone and Lose Game
 * Chatoms
 * Flashcard
 * Something Maps
