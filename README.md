@@ -9,7 +9,8 @@ Just a place to store code, ideas, and rough drafts of teaching RubyMotion with 
 * Project Style: Objective-C Base, REPL Convert to RubyMotion, Red Test, Green Test, Gemify/Refactor
 
 ### Potential App Ideas
-* Shake the Phone and Lose Game
+* App Battle - Shake the Phone and Lose Game
+  * Starts simple by detecting shake and turning background color to red.
 * Chatoms
 * Flashcard
 * Something Maps
