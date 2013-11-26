@@ -15,6 +15,7 @@ Just a place to store code, ideas, and rough drafts of teaching RubyMotion with 
   * **Technology Level:** Detecting shake and UIView color are super easy.  And arguably better than `Hello World`.  
   * **Extra:** [Cartoon of the process](./assets/images/app_battle.jpg)
 * Chatoms
+  * **Source Done:** https://github.com/IconoclastLabs/Chatoms-RubyMotion?source=cc
 * Flashcard
 * Something Maps
 * Bingo Card
